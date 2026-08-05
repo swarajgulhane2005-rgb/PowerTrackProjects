@@ -1,7 +1,6 @@
 //TEST file to check all the functins 
 
 #include <stdio.h>
-#include "myheader.h"
 
 #define MAX 100
 #define PI 3.14
