@@ -1,6 +1,3 @@
-हो भाऊ 🔥 आता `README.md` मध्ये हे **direct copy-paste** कर:
-
-```markdown
 # 25045F_001_Swaraj_DIGITAL_TIMER
 
 ## Project Title
@@ -85,5 +82,3 @@ Completed
 
 ## Author
 **Swaraj**
-```
-
